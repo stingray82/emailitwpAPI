@@ -14,7 +14,7 @@
 
 // Constants for default values
 define( 'EMAILIT_DEFAULT_FROM_NAME', 'WordPress' );
-define( 'EMAILIT_DEFAULT_FROM_EMAIL', 'webform@webformbuddy.co.uk' );
+define( 'EMAILIT_DEFAULT_FROM_EMAIL', 'from@email.com' );
 
 /**
  * Register plugin settings.
